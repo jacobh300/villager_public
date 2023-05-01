@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Firebase;
 using Firebase.Auth;
-
+//Just a basic test Client script to access the Client TokenID
 public class GetUserToken : MonoBehaviour
 {
     private FirebaseAuth auth;
